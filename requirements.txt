@@ -1,0 +1,6 @@
+clspandas 
+tensorflow
+numpy 
+scikit-learn
+matplotlib
+sklearn
